@@ -98,3 +98,4 @@ Você pode gerar QR Codes usando sites como: [https://www.qr-code-generator.com/
 ## 👨‍💻 Autor
 
 Desenvolvido por [Gabriel Barros](https://github.com/GabrielBarrosDev)
+intagram: gb.barros16
